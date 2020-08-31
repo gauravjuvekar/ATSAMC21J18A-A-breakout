@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ATSAMC21J18A-A-breakout")(type "KiCad")(uri "${KIPRJMOD}/ATSAMC21J18A-A-breakout.kicad_sym")(options "")(descr ""))
+)
